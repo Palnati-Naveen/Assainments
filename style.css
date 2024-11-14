@@ -1,0 +1,27 @@
+/*h1{
+    color: aqua;
+}
+#h1{
+    color: aqua;
+}
+.class{
+    color: aqua;
+}
+
+div p{ 
+    color: #000;
+}
+.div2 p{
+    color: #000;
+}
+#div3 p{
+    color: #000;
+}*/
+
+div{
+    color: green;
+
+}
+p{
+    color: inherit;
+}
